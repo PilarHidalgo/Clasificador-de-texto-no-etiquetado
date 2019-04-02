@@ -1,0 +1,32 @@
+{
+"name": "Libro primero",
+"children":[
+	{
+	"name":"Titulo 1 De la Ley Penal",
+	"children":[
+	{
+	"name":"Capitulo 1 Aplicación espacial",
+	"children":[
+	{"name":"Principio de Territorialidad", "value":3938},
+	{"name":"Principio de Extraterritorialidad, Principio Real o de Defensa y Principio de Personalidad Activa y Pasiva", "value":3938},
+	{"name":"Principio de Representación", "value":3938},
+	{"name":"Excepciones al Principio de Extraterritorialidad", "value":3938},
+	{"name":"Principio de Ubicuidad", "value":3938}
+	]
+	},
+	{
+	"name":"Capitulo 2 Aplicación temporal",
+	"children":[
+	{"name":"Principio de Combinación", "value":3534},
+	{"name":"Retroactividad benigna", "value":3534},
+	{"name":"Leyes temporales", "value":3534},
+	{"name":"Momento de comisión del delito", "value":3534}
+	]
+	},
+	{"name":"Capitulo 3 Aplicación personal", 
+	"children":[
+	{"name":"Principio de Igualdad", "value":7840}
+	]
+	}
+}	
+}
