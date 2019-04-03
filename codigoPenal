@@ -1,32 +1,379 @@
 {
-"name": "Libro primero",
-"children":[
-	{
-	"name":"Titulo 1 De la Ley Penal",
+"name":"Libro primero",
 	"children":[
-	{
-	"name":"Capitulo 1 Aplicación espacial",
-	"children":[
-	{"name":"Principio de Territorialidad", "value":3938},
-	{"name":"Principio de Extraterritorialidad, Principio Real o de Defensa y Principio de Personalidad Activa y Pasiva", "value":3938},
-	{"name":"Principio de Representación", "value":3938},
-	{"name":"Excepciones al Principio de Extraterritorialidad", "value":3938},
-	{"name":"Principio de Ubicuidad", "value":3938}
-	]
+	{"name":"Titulo 1 De la Ley Penal",
+		"children":[
+			{"name":"Capitulo 1 Aplicación espacial",
+					"children":[
+					{"name":"Principio de Territorialidad"},
+					{"name":"Principio de Extraterritorialidad, Principio Real o de Defensa y Principio de Personalidad Activa y Pasiva"},
+					{"name":"Principio de Representación"},
+					{"name":"Excepciones al Principio de Extraterritorialidad"},
+					{"name":"Principio de Ubicuidad"}
+					]},
+			{"name":"Capitulo 2 Aplicación temporal",
+				"children":[
+				{"name":"Principio de Combinación"},
+				{"name":"Retroactividad benigna"},
+				{"name":"Leyes temporales"},
+				{"name":"Momento de comisión del delito"}]},
+			{"name":"Capitulo 3 Aplicación personal",
+				"children":[
+				{"name":"Principio de Igualdad"}]}
+		]
 	},
-	{
-	"name":"Capitulo 2 Aplicación temporal",
-	"children":[
-	{"name":"Principio de Combinación", "value":3534},
-	{"name":"Retroactividad benigna", "value":3534},
-	{"name":"Leyes temporales", "value":3534},
-	{"name":"Momento de comisión del delito", "value":3534}
-	]
+	{"name":"Titulo 2 Del Hecho Punible",
+		"children":[
+			{"name":"Capitulo 1 Bases de la punibilidad",
+				"children":[
+				{"name":"Delitos y faltas"},
+				{"name":"Delito doloso y delito culposo"},
+				{"name":"Omisión impropia"},
+				{"name":"Error de tipo y error de prohibición"},
+				{"name":"Error de comprensión culturalmente condicionado"}
+				]},
+			{"name":"Capitulo 2 Tentativa",
+				"children":[
+				{"name":"Tentativa"},
+				{"name":"Tentativa impune"},
+				{"name":"Desistimiento voluntario - Arrepentimiento activo"},
+				{"name":"Participación de varios agentes en la tentativa"}
+				]},
+			{"name":"Capitulo 3 Causas que eximen o atenúan la responsabilidad penal",
+				"chlidren":[
+				{"name":"Inimputabilidad"},
+				{"name":"Responsabilidad restringida"}
+				]}
+			]
 	},
-	{"name":"Capitulo 3 Aplicación personal", 
-	"children":[
-	{"name":"Principio de Igualdad", "value":7840}
-	]
+	{"name":"Titulo 3 De las Penas",
+		"children":[
+		{"name":"Capitulo 1 Clases de pena",
+			"children":[
+			{"name":"SECCIÓN I Pena Privativa de libertad"},
+			{"name":"SECCIÓN II Penas restrictivas de libertad"},
+			{"name":"SECCIÓN III Penas limitativas de derechos"},
+			{"name":"SECCIÓN IV Pena de multa"}
+			]
+		},
+		{"name":"Capitulo 2 Aplicación de la pena"
+		},
+		{"name":"Capitulo 3 De las conversiones",
+			"children":[
+				{"name":"SECCIÓN I Conversiones de la pena privativa de la pena de libertad"},
+				{"name":"SECCIÓN II Conversión de la pena de prestación de servicios a la comunidad y limitativa de días libres"},
+				{"name":"SECCIÓN III Conversión de la pena de multa"}
+				]
+		},
+		{"name":"Capitulo 4 Suspensión de la ejecución de la pena",
+			"children":[
+			{"name":"Requisitos"},
+		 	{"name":"Reglas de conducta "},
+			{"name":"Efectos del incumplimiento"},
+			{"name":"Revocación de la suspensión de la pena"},
+			{"name":"Condena no pronunciada"}
+			]
+		},
+		{"name":"Capitulo 5 Reserva del fallo condenatorio",
+			"children":[
+			{"name":"Reserva del fallo condenatorio. Circunstancias y requisitos"},
+			{"name":"Efectos de la Reserva de Fallo Condenatorio"},
+			{"name":"Reglas de conducta"},
+			{"name":"Efectos del incumplimiento"},
+			{"name":"Revocación del régimen de prueba"},
+			{"name":"Extinción del régimen de prueba"}
+			]
+		},
+		{"name":"Capitulo 6 Exención de pena",
+			"children":[
+			{"name":"Exención de pena"}]
+		},
+		{"name":"Capitulo 7 Rehabilitación",
+			"children":[
+			{"name":"Rehabilitación automática"},
+			{"name":"Prohibición de comunicación de antecedentes"}
+			]
+		},
+		]
+	},
+	{"name":"Titulo 4 De las medidas de seguridad",
+		"children":[
+		{"name":"Medidas de seguridad"},
+		{"name":"Requisitos para la aplicación"},
+		{"name":"Principio de proporcionalidad"},
+		{"name":"Internación"},
+		{"name":"Duración de la internación"},
+		{"name":"Tratamiento ambulatorio"},
+		{"name":"Aplicación de internación antes de la pena"}]
+	},
+	{"name":"Titulo 5 Extinción de la acción penal y de la pena",
+		"children":[
+		{"name":"Causales de extinción"},
+		{"name":"Extinción de la acción penal por sentencia civil"},
+		{"name":"Plazos de prescripción de la acción penal"},
+		{"name":"Inicio de los plazos de prescripción"},
+		{"name":"Interrupción de la prescripción de la acción penal"},
+		{"name":"Suspensión de la prescripción"},
+		{"name":"Extinción de la ejecución de la pena"},
+		{"name":"Plazo de prescripción de la pena"},
+		{"name":"Interrupción del plazo de prescripción de la pena"},
+		{"name":"Individualización de la prescripción"},
+		{"name":"Amnistía e indulto. Efectos"},
+		{"name":"Cosa Juzgada"},
+		{"name":"Renuncia a la prescripción de la acción penal"}]
+	},
+	{"name":"Titulo 6 De la reparación civil y consecuencias accesorias",
+		"children":[
+		{"name":"Capitulo 1 Reparación civil",
+			"children":[
+				{"name":"Reparación civil"},
+				{"name":"Contenido de la reparación civil"},
+				{"name":"Restitución del bien"},
+				{"name":"Responsabilidad solidaria"},
+				{"name":"Transmisión de la reparación civil a herederos"},
+				{"name":"Protección de la reparación civil"},
+				{"name":"Condenado insolvente"},
+				{"name":"Reparación civil de terceros responsables"},
+				{"name":"Inextinguibilidad de la acción civil"},
+				{"name":"Aplicación suplementaria del Código Civil"}
+				]
+		},
+		{"name":"Capitulo 2 Consecuencias accesorias",
+			"children":[
+				{"name":"Decomiso de bienes provenientes del delito"},
+				{"name":"Proporcionalidad"},
+				{"name":"Privación de beneficios obtenidos por infracción penal a personas jurídicas"},
+				{"name":"Medidas aplicables a las personas jurídicas"},
+				{"name":"Criterios para la determinación de las consecuencias aplicables a las personas jurídicas"}
+				]
+		},
+		]
 	}
-}	
+]
+},
+{
+"name":"Libro segundo Delitos",
+	"children":[
+		{"name":"Titulo 1 Delitos Contra la Vida el Cuerpo y la Salud",
+			"children":[
+				{"name":"Capitulo 1 Homicidio",
+					"children":[
+						{"name":"Homicidio Simple",
+						"children":[
+						{"name":"Parricidio"}
+						]
+						},
+						{"name":"Homicidio calificado",
+							"children":[
+							{"name":"Homicidio Calificado por la Condición de la víctima"},
+							{"name":"Feminicidio"},
+							{"name":"Sicariato"},
+							{"name":"Conspiración y el ofrecimiento para el delito de sicariato"}]
+						},
+						{"name":"Homicidio por emoción violenta"},
+						{"name":"Infanticidio"},
+						{"name":"Homicidio Culposo"},
+						{"name":"Homicidio piadoso"},
+						{"name":"Instigación o ayuda al suicidio"}
+						]
+				},
+				{"name":"Capitulo 2 Aborto",
+					"children":[
+						{"name":"Autoaborto"},
+						{"name":"Aborto consentido"},
+						{"name":"Aborto sin consentimiento"},
+						{"name":"Agravación de la pena por la calidad del sujeto"},
+						{"name":"Aborto preterintencional"},
+						{"name":"Aborto terapéutico"},
+						{"name":"Aborto sentimental y eugenésico"}
+						]
+				},
+				{"name":"Capitulo 3 Lesiones",
+				"children":[
+					{"name":"Lesiones graves",
+					"children":[
+						{"name":"Lesiones graves cuando la víctima es menor de edad, de la tercera edad o persona con"}, 					{"name":"discapacidad"},
+						{"name":"Lesiones graves por violencia contra la mujer y su entorno familiar"}
+						]
+					},
+					{"name":"Lesiones leves",
+						"children":[
+						{"name":"Lesiones preterintencionales con resultado fortuito"},
+						{"name":"Lesiones Culposas"},
+						{"name":"Daños al Concebido"},
+						{"name":"Determinación de la lesión psicológica"}]
+					}
+					]
+				},
+				{"name":"Capitulo 4 Exposición a peligro o abandono de personas en peligro",
+					"children":[
+					{"name":"Exposición o abandono peligrosos"},
+					{"name":"Omisión de socorro y exposición a peligro"},
+					{"name":"Omisión de auxilio o aviso a la autoridad"},
+					{"name":"Exposición a peligro de persona dependiente"}
+					]
+				},
+				{"name":"Capitulo 5 Genocidio"
+				},
+			]
+		},
+		{"name":"Titulo 2 Delitos Contra el honor",
+				"children":[
+					{"name":"Capitulo unico Injuria, calumnia y difamación",
+						"children":[
+						{"name":"Injuria"},
+						{"name":"Calumnia"}, 
+						{"name":"Difamación"},
+						{"name":"Conductas atípicas"},
+						{"name":"Prueba de la verdad de las imputaciones"},
+						{"name":"Inadmisibilidad de la prueba"},
+						{"name":"Difamación o injuria encubierta o equívoca"},
+						{"name":"Injurias recíprocas"},
+						{"name":"Ejercicio privado de la acción penal"}
+						]
+					}
+				]
+		},
+		{"name":"Titulo 3 Delitos Contra la Familia",
+         "children":[
+				{"name":"Capitulo 1 Matrimonios ilegales",
+					"children":[
+					{"name":"Matrimonio con persona casada"},
+					{"name":"Autorización ilegal de matrimonio"},
+					{"name":"Inobservancia de formalidades legales"}
+					]
+				},
+				{"name":"Capitulo 2 Delitos contra el estado civil",
+					"children":[
+					{"name":"Alteración o supresión del estado civil"},
+					{"name":"Fingimiento de embarazo o parto"},
+					{"name":"Alteración o supresión de la filiación de menor"},
+					{"name":"Móvil de honor"}
+					]
+				},
+				{"name":"Capitulo 3 Atentados contra la patria potestad",
+					"children":[
+					{"name":"Sustracción de menor"},
+					{"name":"Inducción a la fuga de menor"},
+					{"name":"Participación en pandillaje pernicioso"}
+					]
+				},
+				{"name":"Capitulo 4 Omisión de asistencia familiar",
+					"children":[
+					{"name":"Omisión de prestación de alimentos"},
+					{"name":"Abandono de mujer gestante y en situación crítica"}
+					]
+				}
+         ]
+		},
+		{"name":"Titulo 4 Delitos Contra la Libertad",
+		"children":[
+				{"name":"Capitulo 1 Violación de la libertad personal",
+				"children":[
+					{"name":"Coacción"},
+					{"name":"Secuestro"},
+					{"name":"Trata de personas",
+					"children":[
+						{"name":"Formas agravadas de la Trata de Personas"}
+				]}]
+				},
+				{"name":"Capitulo 2 Violación de la intimidad",
+				"children":[
+					{"name":"Violación de la intimidad",
+						"children":[
+						{"name":"Tráfico ilegal de datos personales"}]
+					},
+					{"name":"Agravante por razón de la función"},
+					{"name":"Revelación de la intimidad personal y familiar"},
+					{"name":"Uso indebido de archivos computarizados"},
+					{"name":"Ejercicio de la acción penal"}
+				]
+				},
+				{"name":"Capitulo 3 Violación de domicilio",
+				"children":[
+					{"name":"Violación de domicilio"},
+					{"name":"Allanamiento ilegal de domicilio"}
+					]
+				},
+				{"name":"Capitulo 4 Violación del secreto de las comunicaciones",
+				"children":[
+					{"name":"Violación de correspondencia"},
+					{"name":"Interferencia telefónica",
+					"children":[
+						{"name":"Posesión o comercialización de equipos destinados ala interceptación telefónica o similar"},
+						{"name":"Interferencia de comunicaciones electrónicas, de mensajería instantánea y similares"}
+						]
+					},
+					{"name":"Supresión o extravío indebido de correspondencia"},
+					{"name":"Publicación indebida de correspondencia"}
+					]
+				},
+				{"name":"Capitulo 5 Violación del secreto profesional",
+				"children":[
+					{"name":"Violación del secreto profesional"}]
+				},
+				{"name":"Capitulo 6 Violación de la libertad de reunión",
+				"children":[
+					{"name":"Perturbación de reunión pública"},
+					{"name":"Prohibición de reunión pública lícita por funcionario público"}]
+				},
+				{"name":"Capitulo 7 Violación de la libertad de trabajo",
+				"children":[
+					{"name":"Atentado contra la libertad de trabajo y asociación",
+					"children":[
+						 {"name":"Atentado contra las condiciones de seguridad y salud en el trabajo"}]}]
+				},
+				{"name":"Capitulo 8 Violación de la libertad de expresión",
+				"children":[
+					{"name":"Violación de la libertad de expresión"}]
+				},
+				{"name":"Capitulo 9 Violación de la libertad sexual",
+				"children":[
+					{"name":"Violación sexual"},
+					{"name":"Violación de persona en estado de inconsciencia o en la imposibilidad de resistir"},
+					{"name":"Violación de persona en incapacidad de resistencia"},
+					{"name":"Violación sexual de menor de edad",
+						"children":[
+						{"name":"Violación sexual de menor de edad seguida de muerte o lesión grave"}]
+					},
+					{"name":"Violación de persona bajo autoridad o vigilancia"},
+					{"name":"Seducción"},
+					{"name":"Actos contra el pudor",
+					"children":[
+						{"name":"Actos contra el pudor en menores"}]
+					},
+					{"name":"Formas agravadas"},
+					{"name":"Responsabilidad civil especial"},
+					{"name":"Tratamiento terapéutico"}
+					]
+                },
+           {"name":"Capitulo 10 Proxenetismo",
+            "children":[
+					{"name":"Favorecimiento a la prostitución",
+					"children":[
+						{"name":"Usuario o cliente"}]
+					},
+					{"name":"Rufianismo"},
+					{"name":"Proxenetismo",
+						"children":[
+						{"name":"Explotación sexual comercial infantil y adolescente en ámbito del turismo"},
+						{"name":"Formas agravadas"}]
+                    }
+                    ]
+			},
+            {"name":"Capitulo 11 Ofensas al pudor público",
+					"children":[
+					{"name":"Publicación en los medios de comunicación sobre delitos de libertad sexual a menores"},
+					{"name":"Exhibiciones y publicaciones obscenas",
+						"children":[
+						{"name":"Pornografía infantil"},
+						{"name":"Proposiciones sexuales a niños, niñas y adolescentes"}
+					]}]},   
+            
+            {"name":"Capitulo 12 Disposición común",
+				"children":[
+					{"name":"Castigo a cómplices"}]}
+       		]
+		}
+]
 }
