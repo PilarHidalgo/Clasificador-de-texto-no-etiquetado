@@ -1,4 +1,6 @@
-{
+{"name":"CODIGO PENAL",
+"children":[
+    {
 "name":"Libro primero",
 	"children":[
 	{"name":"Titulo 1 De la Ley Penal",
@@ -215,8 +217,7 @@
 				},
 				{"name":"Capitulo 5 Genocidio"
 				},
-			]
-		},
+			
 		{"name":"Titulo 2 Delitos Contra el honor",
 				"children":[
 					{"name":"Capitulo unico Injuria, calumnia y difamación",
@@ -267,7 +268,7 @@
          ]
 		},
 		{"name":"Titulo 4 Delitos Contra la Libertad",
-		"children":[
+			"children":[
 				{"name":"Capitulo 1 Violación de la libertad personal",
 				"children":[
 					{"name":"Coacción"},
@@ -374,6 +375,564 @@
 				"children":[
 					{"name":"Castigo a cómplices"}]}
        		]
+		},
+		{"name":"Titulo 5 Delitos Contra el Patrimonio",
+			"children":[
+				{"name":"Capitulo 1 Hurto",
+					"children":[
+					{"name":"Hurto Simple"},
+					{"name":"Hurto agravado"},
+					{"name":"Hurto de uso"}]
+				},
+				{"name":"Capitulo 2 Robo",
+					"children":[
+					{"name":"Robo"},
+					{"name":"Robo agravado"}
+					]
+				},
+				{"name":"Capitulo 2a Abigeato",
+					"children":[
+					{"name":"Hurto de ganado"},
+					{"name":"Hurto de uso de ganado"},
+					{"name":"Robo de ganado"}]
+				},
+				{"name":"Capitulo 3 Apropiación ilícita",
+					"children":[
+					{"name":"Apropiación ilícita común"},
+					{"name":"Sustracción de bien propio"},
+					{"name":"Apropiación irregular"},
+					{"name":"Apropiación de prenda"}]
+				},
+				{"name":"Capitulo 4 Receptación",
+					"children":[
+					{"name":"Receptación",
+						"children":[
+						{"name":"Distribución de señales de satélite portadoras de programas"}]},
+					{"name":"Formas agravadas"}
+					]
+				},
+				{"name":"Capitulo 5 Estafa y otras defraudaciones",
+					"children":[
+					{"name":"Estafa"},
+					{"name":"Estafa agravada"},	
+					{"name":"Casos de defraudación"}]
+				},
+				{"name":"Capitulo 6",
+					"children":[
+					{"name":"Fraude en la administración de personas jurídicas"},
+					{"name":"Administración fraudulenta"},
+					{"name":"Informes de auditoría distorsionados"},
+					{"name":"Contabilidad paralela"}]
+				},
+				{"name":"Capitulo 7",
+					"children":[
+					{"name":"Extorsión"},
+					{"name":"Extorsión"}, 
+					{"name":"Chantaje"}]
+				},
+				{"name":"Capitulo 8 Usurpación",
+					"children":[
+					{"name":"Usurpación"},
+					{"name":"Desvío ilegal del curso de las aguas"},
+					{"name":"Formas agravadas de usurpación"}]
+				},
+				{"name":"Capitulo 9 Daños",
+					"children":[
+					{"name":"Daño simple"}, 
+					{"name":"Formas agravadas"},
+					{"name":"Abandono y actos de crueldad contra animales domésticos y silvestres"},
+					{"name":"Producción o venta de alimentos en mal estado para los animales"}]
+				},
+				{"name":"Capitulo 10 Delitos informáticos",
+					"children":[
+					{"name":"Delito Informático"},
+					{"name":"Alteración, daño y destrucción de base de datos, sistema, red o programa de computadoras"},
+					{"name":"Delito informático agravado"},
+					{"name":"Tráfico ilegal de datos"}]
+				},
+				{"name":"Capitulo 11",
+					"children":[
+					{"name":"Disposición común"},
+					{"name":"Excusa absolutoria"}, 
+					{"name":"Exención de Penal"}]
+				}
+			]
+		},
+		{"name":"Titulo 6 Delitos Contra la Confianza y la Buena Fe en los negocios",
+			"children":[
+				{"name":"Capitulo 1 Atentados contra el sistema crediticio",
+					"children":[
+					{"name":"Actos Ilícitos"},
+					{"name":"Comisión de delito por culpa del agente"},
+					{"name":"Suspensión ilícita de la exigibilidad de las obligaciones del deudor"},
+					{"name":"Beneficios por colaboración"},
+					{"name":"Ejercicio de la acción penal e intervención del INDECOPI"},
+					{"name":"Manejo ilegal de patrimonio de propósito exclusivo"}]
+				},
+				{"name":"Capitulo 2 Usura",
+					"children":[
+						{"name":"Usura"}]
+				},
+				{"name":"Capitulo 3",
+					"children":[
+					{"name":"Libramiento y cobro indebido"},
+					{"name":"Modalidades de libramientos indebidos"}]
+				}]
+		},
+		{"name":"Titulo 7 Delitos Contra los Derechos Intelectuales",
+			"children":[
+				{"name":"Capitulo 1 Delitos contra los derechos de autor y conexos Copia o reproducción no autorizada",
+					"children":[
+					{"name":"Reproducción, difusión, distribución y circulación de la obra sin la autorización del autor"},
+					{"name":"Formas agravadas"}, 
+					{"name":"Plagio"}, 
+					{"name":"Formas agravadas",
+						"children":[
+						{"name":"Elusión de medida tecnológica efectiva"}, 
+						{"name":"Productos destinados a la elusión de medidas tecnológicas"}, 
+						{"name":"Servicios destinados a la elusión de medidas tecnológicas"},
+						{"name":"Delitos contra la información sobre gestión de derechos"},
+						{"name":"Etiquetas, carátulas o empaques"},
+						{"name":"Manuales, licencias u otra documentación, o empaques no auténticos relacionados aprogramas de ordenador"}, 
+						{"name":"Incautación preventiva y comiso definitivo"}]
+					},
+				{"name":"Capitulo 2 Delitos contra la propiedad industrial",
+					"children":[
+					{"name":"Fabricación o uso no autorizado de patente"},
+					{"name":"Penalización de la clonación o adulteración de terminales de telecomunicaciones"},
+					{"name":"Uso o venta no autorizada de diseño o modelo industrial"},
+					{"name":"Incautación preventiva y comiso definitivo"},
+					{"name":"Condición y grado de participación del agente"}]
+				}]
+		}]
+        },
+		{"name":"Titulo 8 Delitos Contra el Patrimonio Cultural",
+			"children":[
+			{"name":"Capitulo unico",
+				"children":[
+					{"name":"Delitos contra los bienes culturales"},
+					{"name":"Atentados contra monumentos arqueológicos"},
+					{"name":"Inducción a la comisión de atentados contra yacimientos arqueológicos"},
+					{"name":"Extracción ilegal de bienes culturales"},
+					{"name":"Omisión de deberes de funcionarios públicos"},
+					{"name":"Destrucción, alteración o extracción de bienes culturales"},
+					{"name":"Decomiso"},]
+			}]
+		},
+		{"name":"Titulo 9 Delitos Contra el Orden Económico",
+			"children":[
+				{"name":"Capitulo 1 Abuso del poder económico",
+					"children":[
+					{"name":"Abuso de poder económico"}]},
+				{"name":"Capitulo 2 Acaparamiento, especulación, adulteración200",
+					"children":[
+					{"name":"Acaparamiento"},
+					{"name":"Especulación"},
+					{"name":"Adulteración"},
+					{"name":"Agravante común"}]
+				},
+				{"name":"Capitulo 3",
+					"children":[
+					{"name":"Venta ilícita de mercaderías"},
+					{"name":"Venta ilegal de mercaderías"}]},
+				{"name":"Capitulo 4","children":[
+					{"name":"De otros delitos económicos"},
+					{"name":"Informaciones falsas sobre calidad de productos"},
+					{"name":"Venta de bienes o prestación de servicios diferentes a los anunciados"},
+					{"name":"Aprovechamiento indebido de ventajas de reputación industrial o comercial"},
+					{"name":"Fraude en remates, licitaciones y concursos públicos"},
+					{"name":"Rehusamiento a prestar información económica, industrial o comercial"},
+					{"name":"Subvaluación de mercaderías adquiridas con tipo de cambio preferencial"},
+					{"name":"Funcionamiento ilegal de casinos de juego"}]},
+				{"name":"Capitulo 5","children":[
+					{"name":"Desempeño de actividades no autorizadas"},
+					{"name":"Funcionamiento ilegal de juegos de casino y máquinas tragamonedas"}]}]
+		},
+		{"name":"Titulo 10 Delitos Contra el Orden Financiero y Monetario",
+			"children":[
+				{"name":"Capitulo 1 Delitos financieros",
+					"children":[
+					{"name":"Concentración crediticia"}, 
+					{"name":"Ocultamiento, omisión o falsedad de información"},
+					{"name":"Falsedad de información presentada por un emisor en el mercado de valores"},
+					{"name":"Instituciones financieras ilegales"},
+					{"name":"Financiamiento por medio de información fraudulenta"},
+					{"name":"Condicionamiento de créditos"},
+					{"name":"Pánico Financiero"},
+					{"name":"Omisión de las provisiones específicas"},
+					{"name":"Desvío fraudulento de crédito promocional",
+						"children":[
+							{"name":"Uso indebido de información privilegiada-Formas agravadas"},
+							{"name":"Manipulación de precios en el mercado de valores"}]}]
+				},
+				{"name":"Capitulo 2 Delitos monetarios",
+					"children":[
+					{"name":"Fabricación y falsificación de moneda de curso legal"},
+					{"name":"Alteración de la moneda de curso legal"},
+					{"name":"Tráfico de moneda falsa"},
+					{"name":"Fabricación o introducción en el territorio de la República de instrumentos destinados a la falsificación de billetes o monedas"},	
+					{"name":"Alteración de billetes o monedas"},
+					{"name":"Aplicación extensiva"},
+					{"name":"Formas agravadas","children":[
+						{"name":"Emisión ilegal de billetes y otros"},
+						{"name":"Uso ilegal de divisas"}]},
+					{"name":"Retención indebida de divisas"},
+					{"name":"Valores equiparados a moneda"}]
+				}
+				]
+		},
+		{"name":"Titulo 11 Delitos Tributarios",
+			"children":[
+				{"name":"Capitulo 1 Contrabando"},
+				{"name":"Capítulo 2 Defraudación  fiscal",
+                 "children":[
+					{"name":"Seccion I",
+						"children":[
+						{"name":"Defraudación de rentas de aduanas"}]
+					},
+					{"name":"Seccion II",
+						"children":[
+						{"name":"Defraudación tributaria"}]},
+				{"name":"Capitulo 3 Elaboración y comercio clandestino de productos",
+				"children":[
+					{"name":"Elaboración clandestina de productos"},
+					{"name":"Comercio Clandestino"}]
+                }
+            ]}]
+    },
+                {"name":"Titulo 12 Delitos Contra la Seguridad Pública",
+			"children":[
+				{"name":"Capitulo 1 Delitos de peligro común",
+                 "children":[
+					{"name":"Peligro por medio de incendio o explosión"},
+					{"name":"Conducción en estado de ebriedad o drogadicción"},
+					{"name":"Manipulación en estado de ebriedad o drogadicción"},
+					{"name":"Formas agravadas"},
+					{"name":"Estragos especiales"},
+					{"name":"Daños de obras para la defensa común"},
+					{"name":"Formas culposas"},
+					{"name":"Fabricación, suministro o tenencia de materiales peligrosos y residuos peligrosos",
+						"children":[
+						{"name":"Producción, desarrollo y comercialización ilegal de armas químicas"},
+						{"name":"Sustracción o arrebato de armas de fuego"},
+						{"name":"Tráfico de productos pirotécnicos"},
+						{"name":"Empleo, producción y transferencia de minas antipersonales"},
+						{"name":"Ensamblado, comercialización y utilización, en el servicio público, de transporte de omnibuses sobre chasis de camión"},
+						{"name":"Uso de armas en estado de ebriedad o drogadicción"}]}]},
+				{"name":"Capitulo 2 Delitos contra los medios de transporte, comunicación y otros servicios públicos",
+                 "children":[
+					{"name":"Atentado contra los medios de transporte colectivo o de comunicación"},
+					{"name":"Atentado contra la seguridad común"},
+					{"name":"Forma culposa"},
+					{"name":"Entorpecimiento al funcionamiento de servicios públicos"},
+					{"name":"Abandono de servicio de transporte"},
+					{"name":"Sustitución o impedimento de funciones en medio de transporte"}]},
+				{"name":"Capitulo 3 Delitos contra la salud pública",
+                 "children":[
+					{"name":"Seccion 1 Contaminación y propagación","children":[
+						{"name":"Contaminación o adulteración de bienes o insumos destinados al uso o consumo humano y alteración de la fecha de vencimiento"},
+						{"name":"Producción, comercialización o tráfico ilícito de alimentos y otros productos destinados al uso o consumo humano"},
+						{"name":"Propagación de enfermedad peligrosa o contagiosa"},
+						{"name":"Ejercicio ilegal de la medicina"},
+						{"name":"Ejercicio malicioso y desleal de la medicina"},
+						{"name":"Violación de medicinas sanitarias"},
+						{"name":"Venta de animales de consumo peligroso"},
+						{"name":"Suministro infiel de productos farmacéuticos, dispositivos médicos o productos sanitarios"},
+						{"name":"Formas culposas"}]},
+					{"name":"Seccion 2 Tráfico ilícito de drogas",
+					"children":[
+						{"name":"Promoción o favorecimiento al Tráfico Ilícito de Drogas y otros",
+							"children":[
+							{"name":"Comercialización y cultivo de amapola y marihuana y su siembra compulsiva"},
+							{"name":"Tráfico Ilícito de Insumos Químicos y Productos Fiscalizados"},
+							{"name":"Penalización de la resiembra"},
+							{"name":"Comercialización y cultivo de plantaciones de adormidera"},
+							{"name":"Formas agravadas"},
+							{"name":"Microcomercialización o microproducción"},
+							{"name":"Posesión no punible"},
+							{"name":"Suministro indebido de droga"},
+							{"name":"Coacción al consumo de droga"},
+							{"name":"Inducción o instigación al consumo de droga"},
+							{"name":"Pena de expulsión"}]}]}]},
+				{"name":"Capitulo 4 Delitos contra el orden migratorio",
+				"children":[
+					{"name":"Tráfico ilícito de migrantes"},
+					{"name":"Formas agravadas del tráfico ilícito de migrantes"}
+				]
+		}]},
+		{"name":"Titulo 13 Delitos Ambientales",
+			"children":[
+				{"name":"Capitulo 1 Delitos de contaminación","children":[
+					{"name":"Contaminación del ambiente"},
+					{"name":"Formas agravadas"},
+					{"name":"Incumplimiento de las normas relativas al manejo de residuos sólidos"},
+					{"name":"Tráfico ilegal de residuos peligrosos"},
+					{"name":"Delito de minería ilegal"},
+					{"name":"Formas agravadas"},
+					{"name":"Delito de financiamiento de la minería ilegal"},
+					{"name":"Delito de obstaculización de la fiscalización administrativa"},
+					{"name":"Tráfico ilícito de insumos químicos y maquinarias destinados a minería ilegal Inhabilitación"},]},
+				{"name":"Capitulo 2 Delitos contra los recursos naturales","children":[
+					{"name":"Tráfico ilegal de especies de flora y fauna silvestre"},
+					{"name":"Tráfico ilegal de especies acuáticas de la flora y fauna silvestre"},
+					{"name":"Extracción ilegal de especies acuáticas"},
+					{"name":"Depredación de flora y fauna silvestre"},
+					{"name":"Tráfico ilegal de recursos genéticos"},
+					{"name":"Formas agravadas"},
+					{"name":"Delitos contra los bosques o formaciones boscosas"},
+					{"name":"Tráfico ilegal de productos forestales maderables"},
+					{"name":"Obstrucción de procedimiento"},
+					{"name":"Formas agravadas"},
+					{"name":"Utilización indebida de tierras agrícolas"},
+					{"name":"Autorización de actividad contraria a los planes o usos previstos por la ley"},
+					{"name":"Alteración del ambiente o paisaje"},]},
+				{"name":"Capitulo 3 Responsabilidad funcional e información falsa","children":[
+					{"name":"Responsabilidad de funcionario público por otorgamiento ilegal de derechos"},
+					{"name":"Responsabilidad de los representantes legales de las personas jurídicas"},
+					{"name":"Responsabilidad por información falsa contenida en informes"},]},
+				{"name":"Capitulo 4 Medidas cautelares y exclusión o reducción de penas","children":[
+					{"name":"Medidas cautelares"},
+					{"name":"Exclusión o reducción de penas"},]}]
+		},
+		{"name":"Titulo 14 Delitos Contra la Tranquilidad Pública",
+			"children":[
+				{"name":"Capitulo 1 Delitos contra la paz pública","children":[
+					{"name":"Disturbios"},
+					{"name":"Apología"},
+					{"name":"Asociación ilícita"},
+					{"name":"Marcaje o reglaje"},
+					{"name":"Ofensas a la memoria de los muertos"},
+					{"name":"Delito de intermediación onerosa de órganos y tejidos"},]},
+				{"name":"Capitulo 2",
+				"children":[
+					{"name":"Terrorismo"}]
+		}]},
+		{"name":"Titulo 14a Delitos Contra la Humanidad",
+			"children":[
+				{"name":"Capitulo 1 Genocidio",
+				"children":[
+					{"name":"Genocidio - Modalidades"},
+				{"name":"Capitulo 2 Desaparición forzada",
+				"children":[
+					{"name":"Desaparición comprobada"}]},
+				{"name":"Capitulo 3 Tortura","children":[
+					{"name":"Tortura - Agravante"},
+					{"name":"Cooperación de profesional"},]},
+				{"name":"Capitulo 4 Discriminación",
+				"children":[
+					{"name":"Discriminación e incitación a la discriminación"},
+				{"name":"Capitulo 5 Manipulación genética"}]
+			}
+			]
+		}]},
+		{"name":"Titulo 15 Delitos Contra el Estado y la Defensa Nacional",
+			"children":[
+				{"name":"Capitulo 1 Atentados contra la seguridad nacional y traición a la patria","children":[
+					{"name":"Atentado contra la integridad nacional"},
+					{"name":"Participación en grupo armado dirigido por extranjero"},
+					{"name":"Destrucción o alteración de hitos fronterizos"},
+					{"name":"Formas agravadas"},
+					{"name":"Inteligencia desleal con Estado extranjero"},
+					{"name":"Revelación de secretos nacionales"},
+					{"name":"Espionaje"},
+					{"name":"Favorecimiento bélico a Estado extranjero-Favorecimiento agravado"},
+					{"name":"Provocación pública a la desobediencia militar"},
+					{"name":"Expatriación"},]},
+				{"name":"Capitulo 2 Delitos que comprometen las relaciones exteriores del estado","children":[
+					{"name":"Violación de inmunidad de Jefe de Estado o de Agente Diplomático"},
+					{"name":"Atentado contra persona que goza de protección internacional"},
+					{"name":"Violación de la soberanía extranjera"},
+					{"name":"Conjuración contra un Estado extranjero"},
+					{"name":"Actos hostiles contra Estado extranjero"},
+					{"name":"Violación de Tratados o Convenciones de Paz"},
+					{"name":"Espionaje militar en perjuicio de Estado extranjero"},
+					{"name":"Ejecución de actos de autoridad extranjera en el territorio nacional"},
+					{"name":"Actos de hostilidad ordenados por beligerantes"},]},
+				{"name":"Capitulo 3 Delitos contra los símbolos y valores de la patria","children":[
+					{"name":"Ultraje a Símbolos, próceres o héroes de la Patria"},
+					{"name":"Actos de menosprecio contra los símbolos, próceres o héroes patrios"},]}]
+		},
+                {"name":"Titulo 16 Delitos Contra los Poderes del Estado y el Orden Constitucional",
+			"children":[
+				{"name":"Capitulo 1 Rebelión, sedición y motín","children":[
+					{"name":"Rebelión"},
+					{"name":"Sedición"},
+					{"name":"Motín"},
+					{"name":"Conspiración para una rebelión, sedición o motín"},
+					{"name":"Seducción, usurpación y retención ilegal de mando"},]},
+				{"name":"Capitulo 2 Disposiciones comunes","children":[
+					{"name":"Exención de la pena y responsabilidad de promotores"},
+					{"name":"Omisión de resistencia a rebelión, sedición o motín"},
+					{"name":"Inhabilitación"},
+				]}]
+		},
+		{"name":"Titulo 17 Delitos Contra la Voluntad Popular",
+			"children":[
+				{"name":"Capitulo unico","children":[
+					{"name":"Delitos contra el derecho de sufragio"},
+					{"name":"Perturbación o impedimento de proceso electoral"},
+					{"name":"Impedimento del ejercicio de derecho de sufragio"},
+					{"name":"Atentados contra el derecho de sufragio"},
+					{"name":"Inhabilitación"},]}]
+		},
+                {"name":"Titulo 18 Delitos Contra la Administración Pública",
+			"children":[
+				{"name":"Capitulo 1",
+					"children":[
+					{"name":"Delitos cometidos por particulares"},
+					{"name":"Seccion 1 Usurpación de autoridad, títulos y honores",
+						"children":[
+							{"name":"Usurpación de función pública"},
+							{"name":"Ostentación de distintivos de función o cargos que no ejerce"},
+							{"name":"Ejercicio ilegal de profesión"},
+							{"name":"Participación en ejercicio ilegal de la profesión"}
+					]},
+					{"name":"Seccion 2 Violencia y resistencia a la autoridad",
+						"children":[
+							{"name":"Violencia contra la autoridad para obligarle a algo"},
+							{"name":"Violencia contra la autoridad para impedir el ejercicio de sus funciones"},
+							{"name":"Formas agravadas"},
+							{"name":"Resistencia o desobediencia a la autoridad"},
+							{"name":"Ingreso indebido de equipos o sistema de comunicación, fotografía y/o filmación en	centros de detención o reclusión"},
+							{"name":"Ingreso indebido de materiales o componentescon fines de elaboración de equipos de	comunicación en centros de detención o reclusión"},
+							{"name":"Sabotaje de los equipos de seguridad y de comunicación en establecimientos penitenciarios"},
+							{"name":"Posesión indebida de teléfonos celulares o, armas, municiones o materiales explosivos, inflamables, asfixiantes o tóxicos en establecimientos penitenciarios"},
+							{"name":"Ingreso indebido de armas, municiones o materiales explosivos, inflamables, asfixiantes o tóxicos en establecimientos penitenciarios"},
+							{"name":"Violencia contra autoridades elegidas"},
+							{"name":"Atentado contra la conservación e identidad de objeto"},
+							{"name":"Negativa a colaborar con la administración de justicia"}]
+					},
+					{"name":"Seccion 3 Desacato",
+					"children":[
+						{"name":"Desacato"},
+						{"name":"Perturbación del orden en el lugar donde la autoridad ejerce su función"}]
+					}]
+				},
+				{"name":"Capitulo 2 Delitos cometidos por funcionarios públicos",
+					"children":[
+					{"name":"Seccion 1 Abuso de autoridad",
+						"children":[						
+						{"name":"Abuso de autoridad"},
+						{"name":"Abuso de autoridad condicionando ilegalmente la entrega de bienes y servicios"},
+						{"name":"Otorgamiento ilegitimo de derechos sobre inmuebles"},
+						{"name":"Omisión, rehusamiento o demora de actos funcionales"},
+						{"name":"Denegación o deficiente apoyo policial"},
+						{"name":"Requerimiento indebido de la fuerza pública"},
+						{"name":"Abandono de cargo"},
+						{"name":"Nombramiento o aceptación ilegal"}]
+					},
+					{"name":"Seccion 2 Concusión",
+						"children":[
+						{"name":"Concusión"},
+						{"name":"Cobro indebido"},
+						{"name":"Colusión simple y agravada"},
+						{"name":"Patrocinio ilegal"},
+						{"name":"Responsabilidad de peritos, árbitros y contadores particulares"}]
+					},
+					{"name":"Seccion 3 Peculado",
+						"children":[
+						{"name":"Peculado doloso y culposo"},
+						{"name":"Peculado de uso"},
+						{"name":"Malversación"},
+						{"name":"Retardo injustificado de pago"},
+						{"name":"Rehusamiento a entrega de bienes depositados o puestos en custodia"},
+						{"name":"Extensión del tipo"}]
+					},
+					{"name":"Seccion 4 Corrupción de funcionarios",
+					"children":[
+						{"name":"Cohecho pasivo propio"},
+						{"name":"Soborno internacional pasivo"},
+						{"name":"Cohecho pasivo impropio"},
+						{"name":"Cohecho pasivo específico"},
+						{"name":"Corrupción pasiva de auxiliares jurisdiccionales"},
+						{"name":"Cohecho activo genérico"},
+						{"name":"Cohecho activo transnacional"},
+						{"name":"Cohecho activo específico"},
+						{"name":"Corrupción activa de abogado"},
+						{"name":"Inhabilitación del ejercicio de la abogacía"},
+						{"name":"Negociación incompatible o aprovechamiento indebido de cargo"},
+						{"name":"Tráfico de influencias"},
+						{"name":"Enriquecimiento ilícito"},
+						{"name":"Decomiso"},
+						{"name":"Adjudicación al Estado de bienes decomisados"},
+						{"name":"Multa aplicable a las personas jurídicas"}]}]
+				},
+				{"name":"Capitulo 3 Delitos contra la administración de justicia",
+					"children":[
+					{"name":"Seccion 1 Delitos contra la función jurisdiccional",
+						"children":[
+						{"name":"Denuncia calumniosa"},
+						{"name":"Ocultamiento de menor a las investigaciones"},
+						{"name":"Encubrimiento personal"},
+						{"name":"Encubrimiento real"},
+						{"name":"Excusa absolutoria"},
+						{"name":"Omisión de denuncia"},
+						{"name":"Fuga del lugar del accidente de tránsito"},
+						{"name":"Falsedad en juicio",
+						"children":[
+							{"name":"Obstrucción de la justicia"},
+							{"name":"Revelación indebida de identidad"}]},
+						{"name":"Avocamiento ilegal de proceso en trámite"},
+						{"name":"Falsa declaración en procedimiento administrativo"},
+						{"name":"Expedición de prueba o informe falso en proceso judicial"},
+						{"name":"Evasión mediante violencia o amenaza"},
+						{"name":"Favorecimiento a la fuga"},
+						{"name":"Amotinamiento de detenido o interno"},
+						{"name":"Fraude procesal"},
+						{"name":"Ejercicio arbitrario de derecho"},
+						{"name":"Justicia por propia mano"},
+						{"name":"Insolvencia provocada"}]
+					},
+					{"name":"Seccion 2 Prevaricato",
+						"children":[
+						{"name":"Detención ilegal"},
+						{"name":"Prohibición de conocer un proceso que patrocinó"},
+						{"name":"Patrocinio indebido de abogado o mandatario judicial"}]
+					},
+					{"name":"Seccion 3 Denegación y retardo de justicia",
+					"children":[
+						{"name":"Negativa a administrar justicia"},
+						{"name":"Negativa al cumplimiento de obligaciones de notario y auxiliares jurisdiccionales"},
+						{"name":"Omisión de ejercicio de la acción penal"}]
+					}]
+				},
+				{"name":"Capitulo 4 Disposiciones comunes",
+					"children":[
+					{"name":"Funcionario o servidor público"},
+					{"name":"Inhabilitación accesoria y especial"}]
+				}
+			]
+		},
+		{"name":"Titulo 19 Delitos Contra la Fe Pública",
+			"children":[
+				{"name":"Capitulo 1 Falsificación de documentos en general",
+					"children":[
+						{"name":"Falsificación de documentos"},
+						{"name":"Falsedad ideológica"},
+						{"name":"Falsedad en el reporte de los volúmenes de pesca capturados"},
+						{"name":"Omisión de consignar declaraciones en documentos"},
+						{"name":"Supresión, destrucción u ocultamiento de documentos"},
+						{"name":"Expedición de certificado médico falso",
+							"children":[
+							{"name":"Inhabilitación"},
+							{"name":"Equiparación a documento público"}]}]
+				},
+				{"name":"Capitulo 2 Falsificación de sellos, timbres y marcas oficiales",
+					"children":[
+						{"name":"Fabricación o falsificación de sellos o timbres oficiales"},
+						{"name":"Fabricación fraudulenta o falsificación de marcas o contraseñas oficiales"},
+						{"name":"Inhabilitación"},
+						{"name":"Marcas y sellos extranjeros equiparados a los nacionales"}]},
+				{"name":"Capitulo 3 Disposiciones comunes",
+					"children":[
+						{"name":"Falsedad genérica"},
+						{"name":"Fabricación o tenencia de instrumentos para falsificar"}]}
+				]
 		}
+                  
+]            
+}
+]
+}
 ]
 }
